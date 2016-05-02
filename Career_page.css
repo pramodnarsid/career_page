@@ -1,0 +1,131 @@
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+  width: 80%;
+  margin: 0 auto; 
+  font-family: Candara;
+  line-height: 23px;
+}
+
+
+h1 {
+    padding-bottom: 1px;  
+    margin: 5px;
+    font-family: Arial;
+    width: auto;
+    float: left;
+    font-size: 1.9em;
+    
+}
+
+h2, h3, h4 {
+    font-size: 13pt;
+    color: #454545;
+    font-weight: 550;
+}
+
+h3 {
+padding-bottom: 2px;
+background-color: #80ccff;
+color: white;
+padding-top: 0px;
+}
+
+
+hr {
+width: 99%;
+padding: 0px;
+background-color: black;
+padding-top: 1px;
+margin-bottom: 6px;
+margin-top: 2px;    
+opacity: 0.3;
+height: 0px;
+margin: 0 aute;
+}
+
+.header-details {
+    color: white;
+
+}
+
+
+.pic11  {
+    background-image: url(file:///Users/Sweta/Documents/Tech%20Work%20-%20RD/Practice/Career%20Page/pic1.jpg);
+    background-position: left bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 0px;
+    width: 100%;
+    border-radius: 10px;  
+    margin-right: 1px;
+    height: 284px;
+    padding-bottom: 100px;
+
+    }
+
+.first-p {
+    
+ 
+   
+    background-color: beige;
+    color: white;
+    filter:alpha(opacity=60); /* For IE8 and earlier */
+    background-color:rgba(1,1,1,.2);
+    border-radius: 10px;
+    font-size: 1.6em;
+    font-family: Optima;
+    text-align: justify;
+    font-weight: 50;
+    line-height: 33px;
+   
+    padding: 15px;
+    padding-top: 1px;
+    padding-bottom: 0px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 23px;
+}
+    
+section {
+    font-weight: 50;
+    color: #a6a6a6;
+    
+}
+
+p, dd {
+    color:#635F5E;
+}
+
+#arrow {
+    margin: 8px 8px 8px 8px;
+    color: white;
+    font-size: 20px;
+}
+
+article {
+border: 1px solid #e0e0eb;
+margin: 10px;
+padding: 0px 7px 7px 7px; 
+}
+
+.de-in {
+   background-color: #e6ffe6;
+   padding:10px; 
+   border: 1px solid #e6e6ff;
+   border-radius: 10px;
+   color: green;
+
+}
+
+#image111 {
+  width:100px;
+  bottom: 5px;
+  right:5px;
+  position: fixed;
+
+}
+
